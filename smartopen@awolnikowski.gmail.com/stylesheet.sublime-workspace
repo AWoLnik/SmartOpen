@@ -1,0 +1,478 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"list",
+				"list-unstyled"
+			],
+			[
+				"text",
+				"text-left"
+			],
+			[
+				"colg",
+				"col-lg-4"
+			],
+			[
+				"rd",
+				"rd_in_d"
+			],
+			[
+				"wr_i",
+				"wr_in_d"
+			],
+			[
+				"axi",
+				"axi_fifo_alu"
+			],
+			[
+				"fifo",
+				"fifo_cnt"
+			],
+			[
+				"h",
+				"h0000_0000"
+			],
+			[
+				"fifo_al",
+				"fifo_alu_to_cl_dout"
+			],
+			[
+				"fifo_",
+				"fifo_cl_to_alu_full"
+			],
+			[
+				"fifo_alu",
+				"fifo_alu_to_cl_empty"
+			],
+			[
+				"fifo_alu_to",
+				"fifo_alu_to_cl_dout"
+			],
+			[
+				"data",
+				"DATA_WIDTH-1"
+			],
+			[
+				"DATA",
+				"DATA_WIDTH-1"
+			],
+			[
+				"OP_",
+				"OP_MUL_ADD"
+			],
+			[
+				"pri",
+				"printf\tprintf …"
+			],
+			[
+				"prin",
+				"printWord"
+			],
+			[
+				"arr",
+				"arrayGet"
+			],
+			[
+				"size",
+				"size"
+			],
+			[
+				"child",
+				"childSize"
+			],
+			[
+				"tree",
+				"Tree"
+			],
+			[
+				"chi",
+				"children"
+			],
+			[
+				"chil",
+				"childSize"
+			],
+			[
+				"print",
+				"printTree"
+			],
+			[
+				"si",
+				"sizeof"
+			],
+			[
+				"m",
+				"MULTIPLIER"
+			],
+			[
+				"current",
+				"currentant"
+			],
+			[
+				"port",
+				"port"
+			],
+			[
+				"animation",
+				"animationUpdate"
+			],
+			[
+				"k",
+				"keysDown"
+			],
+			[
+				"fill",
+				"fillText"
+			],
+			[
+				"De",
+				"DeckElt"
+			],
+			[
+				"d1",
+				"d1lastelt"
+			],
+			[
+				"d2",
+				"d2lastelt"
+			],
+			[
+				"dec",
+				"deckDestroy"
+			],
+			[
+				"last",
+				"lastelt"
+			],
+			[
+				"Deck",
+				"DeckElt"
+			],
+			[
+				"puts",
+				"putsImportant"
+			],
+			[
+				"digit",
+				"digits"
+			],
+			[
+				"y",
+				"yDigit"
+			],
+			[
+				"x",
+				"xDigit"
+			],
+			[
+				"len",
+				"length"
+			],
+			[
+				"ref",
+				"refBlock"
+			],
+			[
+				"first",
+				"firstChar"
+			],
+			[
+				"wor",
+				"wordLength"
+			],
+			[
+				"firs",
+				"firstChar"
+			],
+			[
+				"start",
+				"startSentinel"
+			],
+			[
+				"out",
+				"outText"
+			],
+			[
+				"dat",
+				"dataList"
+			],
+			[
+				"ou",
+				"outText"
+			],
+			[
+				"for",
+				"formatCode"
+			],
+			[
+				"st",
+				"startSentinel2"
+			],
+			[
+				"char",
+				"charLength"
+			],
+			[
+				"de",
+				"decodeData"
+			],
+			[
+				"star",
+				"startSentinel"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 214.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Set Syntax: C"
+			]
+		],
+		"width": 497.0
+	},
+	"console":
+	{
+		"height": 424.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/adam/Documents/AWoLnik.github.io/css/freelancer.min.css",
+		"/home/adam/Documents/AWoLnik.github.io/css/freelancer.css",
+		"/home/adam/Documents/AWoLnik.github.io/index.html",
+		"/home/adam/Documents/caslab/caslab-aws-fpga/src/cl_fifo/design/fifo_test.v",
+		"/home/adam/Documents/AWoLnik.github.io/vendor/bootstrap/css/bootstrap.css",
+		"/home/adam/Documents/AWoLnik.github.io/scss/_variables.scss",
+		"/home/adam/Documents/caslab/caslab-aws-fpga/scratch/adam/cl_fifo_and_alu/design/axi_fifo_alu.v",
+		"/home/adam/Documents/caslab/caslab-aws-fpga/scratch/adam/README.txt",
+		"/home/adam/Documents/caslab/caslab-aws-fpga/scratch/adam/cl_fifo_and_alu/design/cl_fifo_and_alu.sv",
+		"/home/adam/Documents/caslab/caslab-aws-fpga/scratch/adam/cl_fifo_and_alu/design/cl_fifo_and_alu_defines.vh",
+		"/home/adam/Documents/caslab/caslab-aws-fpga/scratch/adam/cl_fifo_and_alu/design/cl_id_defines.vh",
+		"/home/adam/Documents/caslab/caslab-aws-fpga/scratch/adam/cl_fifo_and_alu/design/fifo.v",
+		"/home/adam/Documents/caslab/caslab-aws-fpga/scratch/adam/cl_fifo_and_alu/design/alu_tb/alu_tb.v",
+		"/home/adam/Documents/caslab/caslab-aws-fpga/scratch/adam/cl_fifo_and_alu/design/alu_tb.v",
+		"/home/adam/Documents/caslab/caslab-aws-fpga/scratch/adam/cl_fifo_and_alu/design/alu.v",
+		"/home/adam/Documents/caslab/caslab-aws-fpga/scratch/adam/cl_fifo_and_alu/design/axil_endpoint_wrapper.v",
+		"/home/adam/Documents/Talli/TalliSite/app/views/layouts/application.html.erb",
+		"/home/adam/Documents/caslab/caslab-aws-fpga/scratch/adam/cl_fifo_and_alu/design/alu.c",
+		"/home/adam/Documents/CPSC223/notes/Apr23_dynamic_programming",
+		"/home/adam/Documents/Talli/TalliSite/app/assets/javascripts/application.js",
+		"/home/adam/Documents/Talli/TalliSite/app/assets/stylesheets/application.css.sass",
+		"/home/adam/Documents/Talli/TalliSite/Gemfile",
+		"/home/adam/Documents/Talli/TalliSite/config/routes.rb",
+		"/home/adam/Documents/Talli/TalliSite/db/seeds.rb",
+		"/home/adam/Documents/Talli/TalliSite/db/migrate/20180423015250_create_entries.rb",
+		"/home/adam/Documents/Talli/TalliSite/app/models/talli.rb",
+		"/home/adam/Documents/Talli/TalliSite/app/models/stat.rb",
+		"/home/adam/Documents/Talli/TalliSite/db/schema.rb",
+		"/home/adam/Documents/Talli/TalliSite/db/migrate/20180422185608_create_tallis.rb",
+		"/home/adam/Documents/Talli/TalliSite/db/migrate/20180422190234_create_entries.rb",
+		"/home/adam/Documents/Talli/TalliSite/db/migrate/20180422190205_create_stats.rb",
+		"/home/adam/Documents/Talli/TalliSite/app/models/entry.rb",
+		"/home/adam/Documents/CPSC223/homework/8/idlist.c",
+		"/home/adam/Documents/CPSC223/homework/8/idlist.h",
+		"/home/adam/Documents/CPSC223/homework/8/test.c",
+		"/home/adam/Documents/CPSC223/homework/8/shrink.c",
+		"/home/adam/Documents/CPSC223/homework/8/dfstree.c",
+		"/home/adam/Documents/CPSC223/homework/8/hashtable.c",
+		"/home/adam/Documents/CPSC223/homework/7/testArray.c",
+		"/home/adam/Documents/CPSC223/homework/7/array.c",
+		"/media/Storage/scazlab/hrc_ws/src/hrc_speech_prediction/hrc_speech_prediction/hrc_speech_prediction/features.py",
+		"/media/Storage/scazlab/hrc_ws/src/hrc_speech_prediction/hrc_speech_prediction/scripts/data/train.json",
+		"/media/Storage/scazlab/hrc_ws/src/hrc_speech_prediction/hrc_speech_prediction/hrc_speech_prediction/data.py",
+		"/media/Storage/scazlab/hrc_ws/src/hrc_speech_prediction/hrc_speech_prediction/hrc_speech_prediction/wrappers.py",
+		"/media/Storage/scazlab/hrc_ws/src/hrc_speech_prediction/hrc_speech_prediction/hrc_speech_prediction/models.py",
+		"/media/Storage/scazlab/hrc_ws/src/hrc_speech_prediction/hrc_speech_prediction/hrc_speech_prediction/train_models.py",
+		"/media/Storage/scazlab/hrc_ws/src/hrc_speech_prediction/hrc_speech_prediction/hrc_speech_prediction/word2vectorizer.py",
+		"/media/Storage/scazlab/hrc_ws/src/hrc_speech_prediction/hrc_speech_prediction/hrc_speech_prediction/bag_parsing.py",
+		"/media/Storage/scazlab/hrc_ws/src/hrc_speech_prediction/hrc_speech_prediction/hrc_speech_prediction/context_model.py",
+		"/home/adam/Documents/scazlab/hrc_ws/src/hrc_speech_prediction/hrc_speech_prediction/hrc_speech_prediction/features.py",
+		"/home/adam/Documents/CPSC223/homework/6/treeSort.c",
+		"/home/adam/Documents/CPSC223/homework/7/array.h",
+		"/home/adam/Documents/CPSC223/homework/4/deck.c",
+		"/home/adam/Documents/CPSC223/notes/Apr9_Balanced_binary_search_trees",
+		"/home/adam/Documents/CPSC223/homework/4/testDeck.c",
+		"/home/adam/Documents/CPSC223/homework/5/ants.c",
+		"/home/adam/Documents/CPSC223/homework/3/num.c",
+		"/home/adam/Documents/CPSC223/homework/2/transpose.c",
+		"/home/adam/Documents/CPSC223/homework/1/encode.c",
+		"/home/adam/Documents/CPSC223/notes/Mar26_recursion",
+		"/home/adam/Documents/gamedev/TeamRace/js/game.js",
+		"/home/adam/Documents/gamedev/TeamRace/index.html",
+		"/home/adam/Documents/CPSC223/homework/4/deck.h",
+		"/home/adam/Documents/CPSC223/notes/Feb28_function_pointers",
+		"/home/adam/Documents/CPSC223/notes/Feb26_hash_tables",
+		"/home/adam/Documents/CPSC223/homework/3/testNum.c",
+		"/home/adam/Documents/CPSC223/homework/3/num.h",
+		"/home/adam/Documents/CPSC223/homework/3/numCreate.c",
+		"/home/adam/Documents/CPSC223/notes/Feb14_files_strings_cont",
+		"/home/adam/Documents/CPSC223/notes/Feb7_project_mangement",
+		"/home/adam/Documents/CPSC223/notes/Feb5_structs_unions_enums",
+		"/home/adam/Documents/EENG201/Lab1/YaleDecoder.py",
+		"/home/adam/Documents/EENG201/Lab1/CreditCardDecoder.py",
+		"/home/adam/.bashrc",
+		"/home/adam/Documents/scazlab/hrc_ws/src/human_robot_collaboration/human_robot_collaboration_lib/include/robot_perception/cartesian_estimator.h",
+		"/home/adam/Documents/scazlab/hrc_ws/src/human_robot_collaboration/human_robot_collaboration_lib/src/robot_perception/cartesian_estimator.cpp",
+		"/home/adam/Documents/scazlab/hrc_ws/src/aruco_ros/aruco_msgs/msg/MarkerArray.msg"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 129.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 208.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "stylesheet.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"carte",
+				"human_robot_collaboration_lib/include/robot_perception/cartesian_estimator.h"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 206.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
